@@ -1,3 +1,2 @@
 This is my Android2.txt file.
 It is my first file.
-This is add from branch Android2-1.
