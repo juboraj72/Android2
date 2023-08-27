@@ -1,3 +1,3 @@
 This is my Android2.txt file.
 It is my first file.
-This newthing add from branch.
+This newthing add from master & branch.
